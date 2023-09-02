@@ -21,15 +21,15 @@ Here are some screenshots of the ManaMusic portfolio website:
 
 ### Homepage
 
-<img src="./frontend/public/images/screenshots/home.jpg" alt="Homepage Screenshot" width="300">
+<img src="./public/images/screenshots/home.jpg" alt="Homepage Screenshot" width="300">
 
 ### Library Page
 
-<img src="./frontend/public/images/screenshots/library.jpg" alt="Music Page Screenshot" width="300">
+<img src="./public/images/screenshots/library.jpg" alt="Music Page Screenshot" width="300">
 
 ### Contact Page
 
-<img src="./frontend/public/images/screenshots/contact-me.jpg" alt="Contact Page Screenshot" width="300">
+<img src="./public/images/screenshots/contact-me.jpg" alt="Contact Page Screenshot" width="300">
 
 
 
