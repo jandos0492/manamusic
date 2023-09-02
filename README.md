@@ -27,11 +27,6 @@ Here are some screenshots of the ManaMusic portfolio website:
 
 <img src="./public/images/screenshots/library.jpg" alt="Music Page Screenshot" width="300">
 
-### Contact Page
-
-<img src="./public/images/screenshots/contact-me.jpg" alt="Contact Page Screenshot" width="300">
-
-
 
 <h2 id="about">About</h2>
 
@@ -53,7 +48,6 @@ ManaMusic is a portfolio website dedicated to showcasing the musical talent of m
 - React.js
 - React Router
 - React Audio Player
-- Express (to set up email configuration)
   
 
 <h2 id="getting-started">Getting Started</h2>
